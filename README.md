@@ -1,4 +1,4 @@
-# SCRUM & Jira Guide
+# SCRUM & Jira 
 
 ## 1. Get to Know SCRUM
 - Understand **SCRUM** fundamentals: **sprints**, **backlogs**, **user stories**, **stand-ups**, and **reviews**.
