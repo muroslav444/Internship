@@ -22,6 +22,6 @@
 ---
 
 ### Resources:
-- [SCRUM Guide](https://softserve.academy/course/view.php?id=182))
+- [SCRUM Guide](https://softserve.academy/course/view.php?id=182)
 - [Jira](https://www.atlassian.com/software/jira/guides/getting-started/basics#step-1-create-a-project)
 
