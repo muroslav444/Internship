@@ -22,7 +22,6 @@
 ---
 
 ### Resources:
-- [SCRUM Guide](https://www.scrumguides.org/)
-- [Jira Documentation](https://support.atlassian.com/jira-software-cloud/)
-- [GitHub-Jira Integration](https://www.atlassian.com/software/jira/guides/integrations/github)
+- [SCRUM Guide]([https://www.scrumguides.org/](https://softserve.academy/course/view.php?id=182))
+- [Jira]([https://support.atlassian.com/jira-software-cloud/](https://www.atlassian.com/software/jira/guides/getting-started/basics#step-1-create-a-project))
 
